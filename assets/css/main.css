@@ -3992,3 +3992,7 @@ input, select, textarea {
 	align-items:center;
     justify-content: center;
 }
+
+.live_github{
+	display:flex;
+}
