@@ -3995,9 +3995,10 @@ input, select, textarea {
 
 .live_github{
 	display:flex;
-	/* justify-content: space-around; */
+	justify-content: flex-end;
+	font-size: 16px;
 }
 
-.live_iste{
+.live_site{
 	margin-right: 30px;
 }
