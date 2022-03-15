@@ -3982,7 +3982,7 @@ input, select, textarea {
     height: 100%;
     display: block;
     object-fit: contain;
-	opacity: 0.5;
+	opacity: 0.8;
 }
 
 .img_container{
